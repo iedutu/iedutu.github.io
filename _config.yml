@@ -107,7 +107,7 @@ author:
   name             : "Cristian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just a dude"
-  location         : "Bucharest/RO""
+  location         : "Bucharest/RO"
   email            : "cristian.ungureanu@gmail.com"
   links:
     - label: "Email"
